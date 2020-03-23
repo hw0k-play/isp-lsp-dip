@@ -1,0 +1,12 @@
+{
+  "name": "isp-lsp-dip",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.3"
+  }
+}
